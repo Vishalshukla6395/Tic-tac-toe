@@ -12,7 +12,7 @@ A simple and interactive Tic Tac Toe game implemented using HTML, CSS, and JavaS
 ## Demo
 
 You can play the game directly from the live link:  
-[**Play Tic Tac Toe**](https://vishalshukla6395.github.io/tic-tac-toe)
+[**Play Tic Tac Toe**](https://vishalshukla6395.github.io/Tic-tac-toe)
 
 ## How to Play
 
